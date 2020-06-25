@@ -1,0 +1,7 @@
+steps-taken.txt
+src/__pycache__
+__pycache__/
+imagen.jpg
+resultado.png
+times_FP16.csv
+times_FP32.csv
